@@ -1,2 +1,1 @@
-# Git Movie
-Feature: add intro section
+# Git Bike Drill
